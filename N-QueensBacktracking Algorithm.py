@@ -1,6 +1,5 @@
 """
 N-Queens Problem - Backtracking Algorithm
-Tugas Individu: Algoritma Backtracking
 """
 
 import time
